@@ -3,6 +3,7 @@
 Demonstration on how to use 16x2 LCD display with an arduino board
 
 You need to install the LiquidCrystal_I2C.h library.
+Check: https://forum.arduino.cc/index.php?topic=542583.0
 sda-a4
 scl-a5
 //============================ albert yumol ===================================*/
